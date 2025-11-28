@@ -1,0 +1,9 @@
+__pycache__/
+data/
+OLD/
+utils/csv_reader.py
+utils/image_extractor.py
+*.pyc
+*.pt
+*.h5
+*.pkl
